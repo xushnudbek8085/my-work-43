@@ -1,0 +1,25 @@
+.x{
+    border: solid black 2px;
+    background-color: antiquewhite;
+    height: 60px;
+}
+.c{
+    border: solid black 2px;
+    background-color: blue;
+    height: 75px;
+}
+.a{
+    border: solid black 2px;
+    background-color: blue;
+    height: 50px;
+}
+.d{
+    border: solid black 2px;
+    background-color: cadetblue;
+    height: 70px;
+}
+.b{
+    border: solid black 2px;
+    background-color: antiquewhite;
+    height: 50px;
+}
